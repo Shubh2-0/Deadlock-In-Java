@@ -1,8 +1,13 @@
 # DEAD LOCK
 
+![image](https://github.com/Shubh2-0/Deadlock-In-Java/assets/112773220/7b33551f-8752-4e4b-924a-8c3e72d337d8)
+
+
 🔒 **A GitHub Repository showcasing projects on Deadlock scenarios**
 
 This repository contains two projects that demonstrate the concept of deadlock in different scenarios.
+
+
 
 ## Projects
 
